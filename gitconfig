@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = alexandre.fabien@gmail.com
+	name = Fabien Alexandre
